@@ -1,7 +1,7 @@
 ---
 title: Data Types and Variables
 type: Homework
-duration: "2:00"
+duration: "0:30"
 creator:
     name: Charlie Drews
     city: NYC
