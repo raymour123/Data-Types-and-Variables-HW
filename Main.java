@@ -31,6 +31,7 @@ public class Main {
         ___ varI = true;
         ___ varJ = (2 == 3);
         ___ varK = Integer.valueOf("9,235");
+		___ varL = varF.equals("Gelato is delicious!")
 
 
         /**
@@ -52,15 +53,6 @@ public class Main {
          */
 
         ___ comment = ___;
-
-
-        /**
-         * 2c) You also need a variable to represent the item ID. The id will be an int, and the value is
-         * shown below, but it's important that no other developers change this ID, so you need to
-         * add a keyword which tells the Java compiler this value cannot be changed once set.
-         */
-
-        ___ int itemID = 12345;
 
 
         /**
