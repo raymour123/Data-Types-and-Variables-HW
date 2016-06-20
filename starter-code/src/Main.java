@@ -29,7 +29,8 @@ public class Main {
         ___ varG = '$';
         ___ varH = "$";
         ___ varI = true;
-        ___ varJ = false;
+        ___ varJ = (2 == 3);
+        ___ varK = Integer.valueOf("9,235");
 
 
         /**
@@ -73,10 +74,10 @@ public class Main {
          * Hint - google "integer division"
          */
 
-        int numeratorInt = 5;
-        int divisorInt = 2;
-        int divisionResultInt = numeratorInt / divisorInt;
-        System.out.println(divisionResultInt);
+        int numerator = 10;
+        int divisor = 3;
+        int divisionResult = numerator / divisor;
+        System.out.println(divisionResult);
 
     }
 }
