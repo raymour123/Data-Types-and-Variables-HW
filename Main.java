@@ -31,7 +31,7 @@ public class Main {
         ___ varI = true;
         ___ varJ = (2 == 3);
         ___ varK = Integer.valueOf("9,235");
-		___ varL = varF.equals("Gelato is delicious!")
+        ___ varL = varF.equals("Gelato is delicious!");
 
 
         /**
