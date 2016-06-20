@@ -64,8 +64,6 @@ public class Main {
 
 
         /**
-         * BONUS
-         *
          * 3) Predict what the result of the division operation below. Compare your prediction to what
          * is printed to the terminal. If they are the same, explain how you made your prediction in
          * a comment. If they are different, modify the code below so that it will produce the result
