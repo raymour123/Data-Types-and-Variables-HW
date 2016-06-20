@@ -24,5 +24,5 @@ The starter code is in `Main.java`. Click on that file above and copy the code t
 
 #### Deliverable
 
-Tomorrow we'll learn how to _fork_ the repository, _clone_ it to your computer,  _commit_ your changes, _push_ your commits it to github, then finally submit a _pull request_ to submit your code to us. For now, just save your code and remember where it is :)
+Tomorrow we'll learn how to _fork_ the repository, _clone_ it to your computer,  _commit_ your changes, _push_ your commits to github, then finally submit a _pull request_ to send your code to us. For now, just save your code and remember where it is :)
 
